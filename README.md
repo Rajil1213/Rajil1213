@@ -11,7 +11,7 @@
     </a>
 </div>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Rajil1213&style=flat-square&color=blue" alt="views"/>v
+    <img src="https://komarev.com/ghpvc/?username=Rajil1213&style=flat-square&color=blue" alt="views"/>
 </p>
 
 <h1 align="center">
