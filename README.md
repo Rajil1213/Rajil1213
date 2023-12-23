@@ -10,10 +10,6 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
 </div>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Rajil1213&style=flat-square&color=blue" alt="banner"/>
-</p>
-
 
 <h1 align="center">
   Hi there
