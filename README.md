@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-### :man-technologist: About Me
+### :man_technologist: About Me
 
 I am a Full Stack Developer from Nepal.
 
