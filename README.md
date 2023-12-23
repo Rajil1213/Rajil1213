@@ -10,14 +10,14 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
 </div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Rajil1213&style=flat-square&color=blue" alt="views"/>v
+</p>
 
 <h1 align="center">
   Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" alt="banner"/>
-</div>
 
 ### :man_technologist: About Me
 
