@@ -30,7 +30,7 @@ I am a Full Stack Developer from Nepal.
 - :computer: I'm currently working as a Software Engineer in LogPoint Nepal Pvt. Ltd.
 - :microscope: I love every part of the software development lifecycle.
 - :crab: I know a bunch of programming languages but recently I've fallen in love with Rust.
-- :writing-hand: I also write non-technical content sporadically on my Medium page.
+- :writing_hand: I also write non-technical content sporadically on my Medium page.
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -57,8 +57,10 @@ I am a Full Stack Developer from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 </div>
 
-### :firee: My Stats
+### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajil1213&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Rajil1213&show_icons=true&custom_title=Summary&hide_rank=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajil1213)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rajil1213&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Rajil1213&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
