@@ -23,7 +23,7 @@
 
 I am a Full Stack Developer from Nepal.
 
-- :computer: I'm currently working as a Software Engineer in LogPoint Nepal Pvt. Ltd.
+- :computer: I'm currently working as a Software Engineer in Alpen Labs.
 - :microscope: I love every part of the software development lifecycle.
 - :crab: I know a bunch of programming languages but recently I've fallen in love with Rust.
 - :writing_hand: I also write non-technical content sporadically on my Medium page.
